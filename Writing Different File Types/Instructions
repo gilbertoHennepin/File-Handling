@@ -1,0 +1,18 @@
+Introduction
+
+Developers often find themselves on projects that require creating text and binary files to store various kinds of data.
+This can prove challenging because text and binary files require specific classes and methods to read, write, and manage the data effectively.
+
+Remember
+
+So far, you’ve learned about the importance of files in Java and how to write and read text and binary files using
+character and binary streams. As you work through this lab, remember a text file contains human-readable characters, 
+typically encoded in formats like ASCII or UTF-8, and usually has a .txt extension. In contrast, a binary file stores 
+non-human-readable data as byte sequences (like images, videos, or programs) and cannot be viewed with a text editor.
+
+In this lab, you'll follow a series of steps to practice writing text and binary files using different approaches. 
+These exercises will equip you to handle various file operations in future projects, like logging application events in a text file or storing encrypted data in a binary format.
+
+Goal
+
+Create and manipulate text and binary files to store various types of data, such as string representations of objects and numerical values.
