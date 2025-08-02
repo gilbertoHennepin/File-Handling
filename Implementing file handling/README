@@ -1,0 +1,31 @@
+Amelia runs a small local bookstore. Lucas, on the other hand, has set up an online business selling first-edition copies of classic fiction titles.
+For both of them, tracking the books that they have in stock is vital to their business success.
+Amelia and Lucas are possible future customers for an application you are helping to develop called My Books Management System.
+
+The My Books Management System currently comprises a directory named myBooks that contains a collection of sample files representing individual books.
+In this lab, you will demonstrate your ability to handle various file and directory operations in 
+Java by managing file systems within the My Books Management System. The tasks you are asked to do, such as creating directories, renaming,
+copying or deleting files, and implementing methods to serialize and deserialize a book object, are common file handling and directory tasks you 
+might encounter in real-world software development.
+
+Goal
+
+Your goal is to implement efficient file system management in the My Books Management System.
+You will manage directories in Java by performing a series of file and directory operations 
+each of which is critical for efficient file system management. 
+Requirements
+
+    Read all files available in the directory and list them in the console. This will be used to print all book files.
+
+    Create a new directory in the system. This directory will store backup copies of your book files. 
+
+    Rename files to correct any naming errors or to change the directory or file name.
+
+    Copy files from one directory to another. This task will test your ability to duplicate files effectively,
+including handling file copying operations and potential errors.
+
+    Delete specific files from a directory. This shows your ability to manage file lifecycle, including 
+removing unnecessary or obsolete files, which is crucial for maintaining an efficient and clean file system.
+
+Implement methods to serialize a Book object to a file and deserialize it back into an object. 
+Object persistence is a key concept for saving and restoring object states, which is essential for data storage and retrieval in real-world applications.
