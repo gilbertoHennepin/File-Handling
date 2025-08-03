@@ -1,0 +1,5 @@
+Update the existing Tiger, Penguin, and Dolphin classes to make them serializable, enabling their state to be saved to a file. Then, you'll override the toString() method in each class, allowing you to display the deserialized data on the screen after reading it from the file.
+
+You'll then write methods to save each animal's data into separate files—one for the tiger, one for the Penguin, and one for the Dolphin. After that, you'll create a method to retrieve and display this data from the files, ensuring that the saved information can be easily accessed.
+
+Finally, you'll add two new options to the main menu: one to save all the animal data to their respective files, and another to retrieve and display the data from those files, making the program more interactive and user-friendly.
